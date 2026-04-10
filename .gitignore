@@ -1,0 +1,10 @@
+# 忽略依赖包
+node_modules/
+
+# 忽略 VitePress 打包生成的产物和缓存
+.vitepress/dist/
+.vitepress/cache/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
