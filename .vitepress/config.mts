@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/OpenJumper_Bin/',
   title: "OpenJumper_Bin",
   description: "项目测试固件与文档",
   themeConfig: {
